@@ -1,5 +1,5 @@
-<h2>What is JDMTableGrid?</h2>
-JDMTableGrid is an iOS UIView that allows you to create a spreadsheet style display of data.
+<h2>What is JDMTableGridView?</h2>
+JDMTableGridView is an iOS UIView that allows you to create a spreadsheet style display of data.
 
 ![](https://github.com/macmoe/JDMTableGridView/raw/master/screenshots/iphone-1.png) 
 &nbsp;&nbsp;&nbsp;
@@ -7,7 +7,7 @@ JDMTableGrid is an iOS UIView that allows you to create a spreadsheet style disp
 &nbsp;&nbsp;&nbsp;
 ![](https://github.com/macmoe/JDMTableGridView/raw/master/screenshots/ipad-1.png) 
 
-<h2>Main Features in JDMTableGrid</h2>
+<h2>Main Features in JDMTableGridView</h2>
 - Easy access methods to UIViews located in JDMTableGridView
 - Easy implementation of JDMTableGridViewDelegate protocol to dynamically display data
 - You can optional implement a floating footer row
